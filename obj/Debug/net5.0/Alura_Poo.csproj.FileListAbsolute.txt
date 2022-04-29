@@ -1,0 +1,16 @@
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/bin/Debug/net5.0/Alura_Poo
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/bin/Debug/net5.0/Alura_Poo.deps.json
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/bin/Debug/net5.0/Alura_Poo.runtimeconfig.json
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/bin/Debug/net5.0/Alura_Poo.runtimeconfig.dev.json
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/bin/Debug/net5.0/Alura_Poo.dll
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/bin/Debug/net5.0/ref/Alura_Poo.dll
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/bin/Debug/net5.0/Alura_Poo.pdb
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/obj/Debug/net5.0/Alura_Poo.csproj.AssemblyReference.cache
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/obj/Debug/net5.0/Alura_Poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/obj/Debug/net5.0/Alura_Poo.AssemblyInfoInputs.cache
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/obj/Debug/net5.0/Alura_Poo.AssemblyInfo.cs
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/obj/Debug/net5.0/Alura_Poo.csproj.CoreCompileInputs.cache
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/obj/Debug/net5.0/Alura_Poo.dll
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/obj/Debug/net5.0/ref/Alura_Poo.dll
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/obj/Debug/net5.0/Alura_Poo.pdb
+/home/nodis/Documentos/Patrick/Alura/Alura_Poo/obj/Debug/net5.0/Alura_Poo.genruntimeconfig.cache
